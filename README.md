@@ -4,7 +4,7 @@
 Model:	Kawasaki Z 1000 SX
 Year:	2011
 Category:	Sport
-Rating:	72.6 out of 100. (https://bikez.com/rating/kawasaki_z_1000_sx_2011.php)[https://bikez.com/rating/kawasaki_z_1000_sx_2011.php]
+Rating:	72.6 out of 100. [https://bikez.com/rating/kawasaki_z_1000_sx_2011.php](https://bikez.com/rating/kawasaki_z_1000_sx_2011.php)
 
 ## Kawasaki z1000SX 2011 SPECS
 
@@ -62,11 +62,11 @@ Maximum power 101.5kW {138 PS} / 9,600 rpm
 Maximum torque 110 Nm {11.2 kgf•m} / 7,800 rpm
 
 ### Pics
-Take a look here: (https://www.visordown.com/news/new-bikes/2011-kawasaki-z1000sx-pics-and-specs)[https://www.visordown.com/news/new-bikes/2011-kawasaki-z1000sx-pics-and-specs]
+Take a look here: [https://www.visordown.com/news/new-bikes/2011-kawasaki-z1000sx-pics-and-specs](https://www.visordown.com/news/new-bikes/2011-kawasaki-z1000sx-pics-and-specs)
 
 ### References:
-(https://www.visordown.com/news/new-bikes/2011-kawasaki-z1000sx-pics-and-specs)[https://www.visordown.com/news/new-bikes/2011-kawasaki-z1000sx-pics-and-specs]
-(https://bikez.com/motorcycles/kawasaki_z_1000_sx_2011.php)[https://bikez.com/motorcycles/kawasaki_z_1000_sx_2011.php]
+[https://www.visordown.com/news/new-bikes/2011-kawasaki-z1000sx-pics-and-specs](https://www.visordown.com/news/new-bikes/2011-kawasaki-z1000sx-pics-and-specs)
+[https://bikez.com/motorcycles/kawasaki_z_1000_sx_2011.php](https://bikez.com/motorcycles/kawasaki_z_1000_sx_2011.php)
 
 ### Comparing engines
 Very nice video comparing 4 Inline engine vs Boxer 4 engine: (https://www.youtube.com/watch?v=mgpDTVBeHOw)[https://www.youtube.com/watch?v=mgpDTVBeHOw]
