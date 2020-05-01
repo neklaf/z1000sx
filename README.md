@@ -1,5 +1,11 @@
 # Kawasaki z1000sx 
 
+## General information
+Model:	Kawasaki Z 1000 SX
+Year:	2011
+Category:	Sport
+Rating:	72.6 out of 100. (https://bikez.com/rating/kawasaki_z_1000_sx_2011.php)[https://bikez.com/rating/kawasaki_z_1000_sx_2011.php]
+
 ## Kawasaki z1000SX 2011 SPECS
 
 Engine type Liquid-cooled, 4-stroke In-Line Four
@@ -53,6 +59,17 @@ Fuel capacity *19 litres*
 ### PERFORMANCE
 
 Maximum power 101.5kW {138 PS} / 9,600 rpm
-Maximum torque 110 N?m {11.2 kgf•m} / 7,800 rpm
+Maximum torque 110 Nm {11.2 kgf•m} / 7,800 rpm
 
-Additional useful information could be found in this web page: https://www.z1000sx.co.uk/
+### Pics
+Take a look here: (https://www.visordown.com/news/new-bikes/2011-kawasaki-z1000sx-pics-and-specs)[https://www.visordown.com/news/new-bikes/2011-kawasaki-z1000sx-pics-and-specs]
+
+### References:
+(https://www.visordown.com/news/new-bikes/2011-kawasaki-z1000sx-pics-and-specs)[https://www.visordown.com/news/new-bikes/2011-kawasaki-z1000sx-pics-and-specs]
+(https://bikez.com/motorcycles/kawasaki_z_1000_sx_2011.php)[https://bikez.com/motorcycles/kawasaki_z_1000_sx_2011.php]
+
+### Comparing engines
+Very nice video comparing 4 Inline engine vs Boxer 4 engine: (https://www.youtube.com/watch?v=mgpDTVBeHOw)[https://www.youtube.com/watch?v=mgpDTVBeHOw]
+
+### Bike additional information
+Additional useful information could be found in this web page: (https://www.z1000sx.co.uk/)[https://www.z1000sx.co.uk/]
